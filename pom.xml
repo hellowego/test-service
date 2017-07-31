@@ -20,6 +20,7 @@
     <modules>
         <module>model</module>
         <module>http</module>
+        <module>service</module>
     </modules>
 
 
